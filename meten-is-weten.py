@@ -6,3 +6,5 @@ if a > b:
     print('getal'' ' + str(a) + ' ''is groter')
 elif a < b: 
     print('getal'' ' + str(b) + ' ''is groter')
+elif a == b:
+    print('a en b zijn even groot')
